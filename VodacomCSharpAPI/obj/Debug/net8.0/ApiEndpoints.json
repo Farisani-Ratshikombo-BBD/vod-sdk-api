@@ -1,0 +1,132 @@
+[
+  {
+    "ContainingType": "VodacomCSharpAPI.Controllers.VodapayController",
+    "Method": "Auth",
+    "RelativePath": "v2/authorizations/applyToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "body",
+        "Type": "VodaPayAuth.Domain.Models.LoginAuthCode",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VodacomCSharpAPI.Controllers.VodapayController",
+    "Method": "PaymentInquiry",
+    "RelativePath": "v2/payments/inquiryPayment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "paymentId",
+        "Type": "VodaPayAuth.Domain.Models.InquiryObject",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VodacomCSharpAPI.Controllers.VodapayController",
+    "Method": "PaymentNotifyInquiry",
+    "RelativePath": "v2/payments/notifyPayment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "body",
+        "Type": "VodaPayAuth.Domain.Models.PaymentNotifyBody",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VodacomCSharpAPI.Controllers.VodapayController",
+    "Method": "Pay",
+    "RelativePath": "v2/payments/pay",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "body",
+        "Type": "VodaPayAuth.Domain.Models.PaymentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VodacomCSharpAPI.Controllers.VodapayController",
+    "Method": "TestNofifyPayment",
+    "RelativePath": "v2/payments/testnotifypayment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "body",
+        "Type": "VodaPayAuth.Domain.Models.PaymentNotifyBody",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
