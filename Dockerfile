@@ -2,7 +2,7 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build-env
 WORKDIR /app
 EXPOSE 8080
 # Copy everything
-COPY . ./*
+COPY . ./
 # Restore as distinct layers
 
 # Build runtime image
