@@ -8,21 +8,18 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy(name: "_myAllowSpecificOrigins", policy =>
+    options.AddDefaultPolicy(builder =>
     {
-        policy.WithOrigins("https://static-miniapp.onrender.com");
+        builder.AllowAnyOrigin() 
+               .AllowAnyMethod()
+               .AllowAnyHeader();
     });
 });
 var app = builder.Build();
 
 app.UseSwagger();
 app.UseSwaggerUI();
-app.UseCors(options =>
-{
-    options.AllowAnyOrigin();
-    options.AllowAnyHeader();
-    options.AllowAnyMethod();
-});
+app.UseCors();
 
 app.UseAuthorization();
 
