@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/home/farisanipaul/vodacomcsharpsdk/VodacomCSharpAPI/VodacomCSharpAPI/VodacomCSharpAPI.csproj": {}
+    "C:\\Users\\ratsf002\\SDK_Development\\vod-sdk-api\\VodacomCSharpAPI\\VodacomCSharpAPI.csproj": {}
   },
   "projects": {
-    "/home/farisanipaul/vodacomcsharpsdk/VodacomCSharpAPI/VodacomCSharpAPI/VodacomCSharpAPI.csproj": {
+    "C:\\Users\\ratsf002\\SDK_Development\\vod-sdk-api\\VodacomCSharpAPI\\VodacomCSharpAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/farisanipaul/vodacomcsharpsdk/VodacomCSharpAPI/VodacomCSharpAPI/VodacomCSharpAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ratsf002\\SDK_Development\\vod-sdk-api\\VodacomCSharpAPI\\VodacomCSharpAPI.csproj",
         "projectName": "VodacomCSharpAPI",
-        "projectPath": "/home/farisanipaul/vodacomcsharpsdk/VodacomCSharpAPI/VodacomCSharpAPI/VodacomCSharpAPI.csproj",
-        "packagesPath": "/home/farisanipaul/.nuget/packages/",
-        "outputPath": "/home/farisanipaul/vodacomcsharpsdk/VodacomCSharpAPI/VodacomCSharpAPI/obj/",
+        "projectPath": "C:\\Users\\ratsf002\\SDK_Development\\vod-sdk-api\\VodacomCSharpAPI\\VodacomCSharpAPI.csproj",
+        "packagesPath": "C:\\Users\\ratsf002\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ratsf002\\SDK_Development\\vod-sdk-api\\VodacomCSharpAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/farisanipaul/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ratsf002\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\ratsf002\\Documents\\Nuget Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -75,12 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "linux-x64": {
-          "#import": []
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

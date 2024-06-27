@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ratsf002\\source\\repos\\VodacomCSharpAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\ratsf002\\SDK_Development\\vod-sdk-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B379EEC1-CF08-4F08-A32B-D261C064B2A9}|VodacomCSharpAPI\\VodacomCSharpAPI.csproj|c:\\users\\ratsf002\\source\\repos\\vodacomcsharpapi\\vodacomcsharpapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B379EEC1-CF08-4F08-A32B-D261C064B2A9}|VodacomCSharpAPI\\VodacomCSharpAPI.csproj|solutionrelative:vodacomcsharpapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B379EEC1-CF08-4F08-A32B-D261C064B2A9}|VodacomCSharpAPI\\VodacomCSharpAPI.csproj|c:\\users\\ratsf002\\source\\repos\\vodacomcsharpapi\\vodacomcsharpapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B379EEC1-CF08-4F08-A32B-D261C064B2A9}|VodacomCSharpAPI\\VodacomCSharpAPI.csproj|solutionrelative:vodacomcsharpapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B379EEC1-CF08-4F08-A32B-D261C064B2A9}|VodacomCSharpAPI\\VodacomCSharpAPI.csproj|c:\\users\\ratsf002\\source\\repos\\vodacomcsharpapi\\vodacomcsharpapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B379EEC1-CF08-4F08-A32B-D261C064B2A9}|VodacomCSharpAPI\\VodacomCSharpAPI.csproj|c:\\users\\ratsf002\\sdk_development\\vod-sdk-api\\vodacomcsharpapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B379EEC1-CF08-4F08-A32B-D261C064B2A9}|VodacomCSharpAPI\\VodacomCSharpAPI.csproj|solutionrelative:vodacomcsharpapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B379EEC1-CF08-4F08-A32B-D261C064B2A9}|VodacomCSharpAPI\\VodacomCSharpAPI.csproj|c:\\users\\ratsf002\\source\\repos\\vodacomcsharpapi\\vodacomcsharpapi\\controllers\\vodapaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B379EEC1-CF08-4F08-A32B-D261C064B2A9}|VodacomCSharpAPI\\VodacomCSharpAPI.csproj|c:\\users\\ratsf002\\sdk_development\\vod-sdk-api\\vodacomcsharpapi\\controllers\\vodapaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B379EEC1-CF08-4F08-A32B-D261C064B2A9}|VodacomCSharpAPI\\VodacomCSharpAPI.csproj|solutionrelative:vodacomcsharpapi\\controllers\\vodapaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B379EEC1-CF08-4F08-A32B-D261C064B2A9}|VodacomCSharpAPI\\VodacomCSharpAPI.csproj|c:\\users\\ratsf002\\source\\repos\\vodacomcsharpapi\\vodacomcsharpapi\\vodacomcsharpapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B379EEC1-CF08-4F08-A32B-D261C064B2A9}|VodacomCSharpAPI\\VodacomCSharpAPI.csproj|c:\\users\\ratsf002\\sdk_development\\vod-sdk-api\\vodacomcsharpapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B379EEC1-CF08-4F08-A32B-D261C064B2A9}|VodacomCSharpAPI\\VodacomCSharpAPI.csproj|solutionrelative:vodacomcsharpapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B379EEC1-CF08-4F08-A32B-D261C064B2A9}|VodacomCSharpAPI\\VodacomCSharpAPI.csproj|c:\\users\\ratsf002\\sdk_development\\vod-sdk-api\\vodacomcsharpapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B379EEC1-CF08-4F08-A32B-D261C064B2A9}|VodacomCSharpAPI\\VodacomCSharpAPI.csproj|solutionrelative:vodacomcsharpapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B379EEC1-CF08-4F08-A32B-D261C064B2A9}|VodacomCSharpAPI\\VodacomCSharpAPI.csproj|c:\\users\\ratsf002\\sdk_development\\vod-sdk-api\\vodacomcsharpapi\\vodacomcsharpapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B379EEC1-CF08-4F08-A32B-D261C064B2A9}|VodacomCSharpAPI\\VodacomCSharpAPI.csproj|solutionrelative:vodacomcsharpapi\\vodacomcsharpapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -45,16 +45,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "ApplyToken.cs",
               "DocumentMoniker": "C:\\Users\\ratsf002\\source\\repos\\VodacomAPINuget\\VodacomAPINuget\\Domain\\Services\\v2\\ApplyToken.cs",
-              "RelativeDocumentMoniker": "..\\VodacomAPINuget\\VodacomAPINuget\\Domain\\Services\\v2\\ApplyToken.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\VodacomAPINuget\\VodacomAPINuget\\Domain\\Services\\v2\\ApplyToken.cs",
               "ToolTip": "C:\\Users\\ratsf002\\source\\repos\\VodacomAPINuget\\VodacomAPINuget\\Domain\\Services\\v2\\ApplyToken.cs",
-              "RelativeToolTip": "..\\VodacomAPINuget\\VodacomAPINuget\\Domain\\Services\\v2\\ApplyToken.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\VodacomAPINuget\\VodacomAPINuget\\Domain\\Services\\v2\\ApplyToken.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T09:55:29.407Z",
@@ -62,64 +62,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "VodapayController.cs",
-              "DocumentMoniker": "C:\\Users\\ratsf002\\source\\repos\\VodacomCSharpAPI\\VodacomCSharpAPI\\Controllers\\VodapayController.cs",
+              "DocumentMoniker": "C:\\Users\\ratsf002\\SDK_Development\\vod-sdk-api\\VodacomCSharpAPI\\Controllers\\VodapayController.cs",
               "RelativeDocumentMoniker": "VodacomCSharpAPI\\Controllers\\VodapayController.cs",
-              "ToolTip": "C:\\Users\\ratsf002\\source\\repos\\VodacomCSharpAPI\\VodacomCSharpAPI\\Controllers\\VodapayController.cs",
+              "ToolTip": "C:\\Users\\ratsf002\\SDK_Development\\vod-sdk-api\\VodacomCSharpAPI\\Controllers\\VodapayController.cs",
               "RelativeToolTip": "VodacomCSharpAPI\\Controllers\\VodapayController.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAowEEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T09:45:57.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ratsf002\\source\\repos\\VodacomCSharpAPI\\VodacomCSharpAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ratsf002\\SDK_Development\\vod-sdk-api\\VodacomCSharpAPI\\Program.cs",
               "RelativeDocumentMoniker": "VodacomCSharpAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\ratsf002\\source\\repos\\VodacomCSharpAPI\\VodacomCSharpAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ratsf002\\SDK_Development\\vod-sdk-api\\VodacomCSharpAPI\\Program.cs",
               "RelativeToolTip": "VodacomCSharpAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-22T12:17:52.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ratsf002\\source\\repos\\VodacomCSharpAPI\\VodacomCSharpAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ratsf002\\SDK_Development\\vod-sdk-api\\VodacomCSharpAPI\\appsettings.json",
               "RelativeDocumentMoniker": "VodacomCSharpAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\ratsf002\\source\\repos\\VodacomCSharpAPI\\VodacomCSharpAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ratsf002\\SDK_Development\\vod-sdk-api\\VodacomCSharpAPI\\appsettings.json",
               "RelativeToolTip": "VodacomCSharpAPI\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-24T21:08:51.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-24T21:08:51.568Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ApplyToken .cs",
               "DocumentMoniker": "C:\\Users\\ratsf002\\source\\repos\\VodaPayAuth\\VodaPayAuth\\Domain\\Sevices\\V2\\ApplyToken .cs",
-              "RelativeDocumentMoniker": "..\\VodaPayAuth\\VodaPayAuth\\Domain\\Sevices\\V2\\ApplyToken .cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\VodaPayAuth\\VodaPayAuth\\Domain\\Sevices\\V2\\ApplyToken .cs",
               "ToolTip": "C:\\Users\\ratsf002\\source\\repos\\VodaPayAuth\\VodaPayAuth\\Domain\\Sevices\\V2\\ApplyToken .cs",
-              "RelativeToolTip": "..\\VodaPayAuth\\VodaPayAuth\\Domain\\Sevices\\V2\\ApplyToken .cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\VodaPayAuth\\VodaPayAuth\\Domain\\Sevices\\V2\\ApplyToken .cs",
               "ViewState": "AQIAABwAAAAAAAAAAAArwCcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-24T21:21:13.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\ratsf002\\source\\repos\\VodacomCSharpAPI\\VodacomCSharpAPI\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ratsf002\\SDK_Development\\vod-sdk-api\\VodacomCSharpAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "VodacomCSharpAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\ratsf002\\source\\repos\\VodacomCSharpAPI\\VodacomCSharpAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ratsf002\\SDK_Development\\vod-sdk-api\\VodacomCSharpAPI\\Properties\\launchSettings.json",
               "RelativeToolTip": "VodacomCSharpAPI\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-03-22T06:34:14.596Z",
               "EditorCaption": ""
@@ -128,9 +127,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "VodacomCSharpAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\ratsf002\\source\\repos\\VodacomCSharpAPI\\VodacomCSharpAPI\\VodacomCSharpAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\ratsf002\\SDK_Development\\vod-sdk-api\\VodacomCSharpAPI\\VodacomCSharpAPI.csproj",
               "RelativeDocumentMoniker": "VodacomCSharpAPI\\VodacomCSharpAPI.csproj",
-              "ToolTip": "C:\\Users\\ratsf002\\source\\repos\\VodacomCSharpAPI\\VodacomCSharpAPI\\VodacomCSharpAPI.csproj",
+              "ToolTip": "C:\\Users\\ratsf002\\SDK_Development\\vod-sdk-api\\VodacomCSharpAPI\\VodacomCSharpAPI.csproj",
               "RelativeToolTip": "VodacomCSharpAPI\\VodacomCSharpAPI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -141,9 +140,9 @@
               "DocumentIndex": 5,
               "Title": "Authorization.cs",
               "DocumentMoniker": "C:\\Users\\ratsf002\\source\\repos\\VodaPayAuth\\VodaPayAuth\\Authorization.cs",
-              "RelativeDocumentMoniker": "..\\VodaPayAuth\\VodaPayAuth\\Authorization.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\VodaPayAuth\\VodaPayAuth\\Authorization.cs",
               "ToolTip": "C:\\Users\\ratsf002\\source\\repos\\VodaPayAuth\\VodaPayAuth\\Authorization.cs",
-              "RelativeToolTip": "..\\VodaPayAuth\\VodaPayAuth\\Authorization.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\VodaPayAuth\\VodaPayAuth\\Authorization.cs",
               "ViewState": "AQIAADcAAAAAAAAAAAAUwFYAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T12:45:37.829Z"
@@ -153,9 +152,9 @@
               "DocumentIndex": 8,
               "Title": "InquiryPayment .cs",
               "DocumentMoniker": "C:\\Users\\ratsf002\\source\\repos\\VodaPayAuth\\VodaPayAuth\\Domain\\Sevices\\V2\\InquiryPayment .cs",
-              "RelativeDocumentMoniker": "..\\VodaPayAuth\\VodaPayAuth\\Domain\\Sevices\\V2\\InquiryPayment .cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\VodaPayAuth\\VodaPayAuth\\Domain\\Sevices\\V2\\InquiryPayment .cs",
               "ToolTip": "C:\\Users\\ratsf002\\source\\repos\\VodaPayAuth\\VodaPayAuth\\Domain\\Sevices\\V2\\InquiryPayment .cs",
-              "RelativeToolTip": "..\\VodaPayAuth\\VodaPayAuth\\Domain\\Sevices\\V2\\InquiryPayment .cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\VodaPayAuth\\VodaPayAuth\\Domain\\Sevices\\V2\\InquiryPayment .cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAArwBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T16:21:56.762Z"
@@ -165,9 +164,9 @@
               "DocumentIndex": 7,
               "Title": "Pay.cs",
               "DocumentMoniker": "C:\\Users\\ratsf002\\source\\repos\\VodaPayAuth\\VodaPayAuth\\Domain\\Sevices\\V2\\Pay.cs",
-              "RelativeDocumentMoniker": "..\\VodaPayAuth\\VodaPayAuth\\Domain\\Sevices\\V2\\Pay.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\VodaPayAuth\\VodaPayAuth\\Domain\\Sevices\\V2\\Pay.cs",
               "ToolTip": "C:\\Users\\ratsf002\\source\\repos\\VodaPayAuth\\VodaPayAuth\\Domain\\Sevices\\V2\\Pay.cs",
-              "RelativeToolTip": "..\\VodaPayAuth\\VodaPayAuth\\Domain\\Sevices\\V2\\Pay.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\VodaPayAuth\\VodaPayAuth\\Domain\\Sevices\\V2\\Pay.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAArwBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T13:00:54.207Z"
