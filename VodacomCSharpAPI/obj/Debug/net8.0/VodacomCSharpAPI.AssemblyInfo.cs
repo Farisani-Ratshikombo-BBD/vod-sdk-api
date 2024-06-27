@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VodacomCSharpAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19fbbf7853800ac80bc83aeb4814f999c50af94b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96151869bd0adfb2e36404d51a8d8545c9d6c290")]
 [assembly: System.Reflection.AssemblyProductAttribute("VodacomCSharpAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VodacomCSharpAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
