@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.Mvc;
 using VodaPayAuth;
 using VodaPayAuth.Domain.Models;
 
 namespace VodacomCSharpAPI.Controllers
 {
+    [EnableCors]
     [Route("api/[controller]")]
     [ApiController]
     public class VodapayController : ControllerBase

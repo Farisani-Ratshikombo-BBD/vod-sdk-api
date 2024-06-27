@@ -25,7 +25,6 @@ app.UseCors(options =>
     options.AllowAnyMethod();
 });
 
-
 app.UseAuthorization();
 
 app.MapControllers();
