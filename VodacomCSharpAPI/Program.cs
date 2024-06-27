@@ -10,7 +10,7 @@ builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(builder =>
         {
-            builder.WithOrigins("*");
+            builder.WithOrigins("https://static-miniapp.onrender.com");
         });
 });
 var app = builder.Build();
