@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\ratsf002\SDK_Development\vod-sdk-api\VodacomCSharpAPI\bin\Release\net8.0\publish\</_PublishTargetUrl>
-    <History>True|2024-06-27T12:57:59.3067615Z;True|2024-06-27T14:33:53.2630503+02:00;True|2024-06-27T14:24:59.1054384+02:00;True|2024-06-27T13:17:35.4708702+02:00;</History>
+    <History>True|2024-06-27T13:17:20.7675980Z;True|2024-06-27T15:11:00.4861744+02:00;True|2024-06-27T14:57:59.3067615+02:00;True|2024-06-27T14:33:53.2630503+02:00;True|2024-06-27T14:24:59.1054384+02:00;True|2024-06-27T13:17:35.4708702+02:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

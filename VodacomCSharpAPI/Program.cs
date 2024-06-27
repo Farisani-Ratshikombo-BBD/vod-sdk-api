@@ -9,11 +9,9 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(builder =>
-    {
-        builder.AllowAnyOrigin() 
-               .AllowAnyMethod()
-               .AllowAnyHeader();
-    });
+        {
+            builder.WithOrigins("*");
+        });
 });
 var app = builder.Build();
 
