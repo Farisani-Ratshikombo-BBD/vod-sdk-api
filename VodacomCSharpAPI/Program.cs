@@ -13,7 +13,6 @@ builder.Services.AddCors(options =>
         policy.WithOrigins("https://static-miniapp.onrender.com");
     });
 });
-
 var app = builder.Build();
 
 app.UseSwagger();

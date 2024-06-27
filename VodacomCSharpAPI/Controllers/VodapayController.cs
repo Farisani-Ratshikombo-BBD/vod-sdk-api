@@ -5,7 +5,7 @@ using VodaPayAuth.Domain.Models;
 
 namespace VodacomCSharpAPI.Controllers
 {
-    [EnableCors]
+    [EnableCors("_myAllowSpecificOrigins")]
     [Route("api/[controller]")]
     [ApiController]
     public class VodapayController : ControllerBase
